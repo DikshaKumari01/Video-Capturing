@@ -1,8 +1,8 @@
-## Video Chaptering using NLP & Topic Modeling
+## Video Capturing using NLP & Topic Modeling
 
 📌 Project Overview
 
-This project automates video chaptering by analyzing YouTube video transcripts using Natural Language Processing (NLP) and Topic Modeling. It extracts subtitles, detects topic changes, and generates meaningful chapter titles.
+This project automates video capturing by analyzing YouTube video transcripts using Natural Language Processing (NLP) and Topic Modeling. It extracts subtitles, detects topic changes, and generates meaningful chapter titles.
 
 🚀 Features
 
